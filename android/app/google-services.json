@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274227051972",
+    "project_id": "dms-project-50433",
+    "storage_bucket": "dms-project-50433.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274227051972:android:c3940b872c9a5b0b6e3891",
+        "android_client_info": {
+          "package_name": "com.example.tourism_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2uZWaUe2ZOVAiSLIskQ-wkVJnI2xjweo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
